@@ -48,9 +48,9 @@ Design notes on the ad-platform signals: [docs/DESIGN-ad-signals.md](docs/DESIGN
 
 ## 5. Where this comes from
 
-I built the first version of this system at SalesCheck, running paid lead generation for B2B clients. When the qualified-lead signal started going back to the ad platforms, the CPL went up, and the cost per qualified lead and the CPA went down.
+I built this system after years of running paid lead generation for B2B clients. A common result: when the qualified-lead signal goes back to the ad platforms, the CPL goes up, and the cost per qualified lead and the CPA go down.
 
-This repository is the rebuilt version, made to plug into any landing page, any form and any CRM. All data in the demo and in the video is fictional.
+This repository is made to plug into any landing page, any form and any CRM. All data in the demo and in the video is fictional.
 
 ## 6. The code
 
